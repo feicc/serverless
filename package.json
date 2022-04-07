@@ -91,7 +91,7 @@
     "@serverless/fdk": "^0.5.1",
     "apollo-client": "^1.4.2",
     "archiver": "^1.1.0",
-    "async": "^1.5.2",
+    "async": "^3.2.2",
     "aws-sdk": "^2.75.0",
     "bluebird": "^3.4.0",
     "chalk": "^2.0.0",
